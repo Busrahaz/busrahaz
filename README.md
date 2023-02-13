@@ -64,7 +64,7 @@
  <img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/>
 </p>
 
-<p align="left">
+<p aliggn="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my commit status" width="49%" />
 </p>
